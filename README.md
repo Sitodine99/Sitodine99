@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * ✉️  You can contact me at [josamontero@gmail.com](mailto:josamontero@gmail.com)
 * 🧠  I'm learning Higher Vocational Training in Multiplatform Application Development
-* ⚡  Although my work experience has primarily focused on administrative and managerial tasks, I have had the opportunity to closely observe how programming is fundamental in various fields. Currently, I am studying programming languages, and I am very interested in the role that coding plays in the business world, enabling the creation, customization of software, and automation of processes. I am also intrigued by the application of programming in the analysis and automation of operations in financial markets. And yes, I do enjoy video games. I believe that redirecting my skills towards new technologies will be essential for my future professional development and growth.
 
 ### Skills
 
